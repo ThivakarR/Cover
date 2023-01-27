@@ -1,9 +1,9 @@
 # Ex-06-Book-Cover-Design
 
-#AIM:
+## AIM:
 To develop a website to display the cover page design of a book
 
-Design Steps:
+## Design Steps:
 Clone the github repository and create a Django admin interface
 
 Step 1:
@@ -12,7 +12,7 @@ Clone the github repository and creat a django admin interface
 Step 2:
 Write HTML and CSS code for designing book cover and execute them.
 
-#Code:
+## Code:
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -129,10 +129,15 @@ Write HTML and CSS code for designing book cover and execute them.
     </body>
 </html>
 
-OUTPUT:
-![img](cover.png)
-HTML Validator:
-![img](validator.png)
+## OUTPUT:
 
-RESULT:
+![cover](https://user-images.githubusercontent.com/118707074/215051967-0e603af1-bfd0-45fd-935a-6b5ad3862430.png)
+
+
+## HTML Validator:
+
+![validator](https://user-images.githubusercontent.com/118707074/215051998-e76f0e7e-9a53-4eb7-b3c5-01ab0d2bb639.png)
+
+
+## RESULT:
 The program for designing book cover page using HTML and CSS is executed successfully.
